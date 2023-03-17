@@ -7,7 +7,7 @@ author: dym
 header-img:
 catalog:   true
 tags:
-     -算法
+     -技术
 ---
 
 本文迁移自老博客，原始链接为 <https://seven.blog.ustc.edu.cn/learning-generational-garbage-collection/>
