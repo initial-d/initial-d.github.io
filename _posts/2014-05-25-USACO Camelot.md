@@ -32,7 +32,7 @@ ofstream fout ("camelot.out");
 ifstream fin ("camelot.in");
 int kstep[MAXR][MAXC][MAXR][MAXC];
 bool vis[MAXR][MAXC];
-int path[8][2] = {{-1,-2},{-2,-1},{-2,1},{-1,2},{1,2},{2,1},{2,-1},{1,-2}};
+int path[8][2] = { {-1,-2},{-2,-1},{-2,1},{-1,2},{1,2},{2,1},{2,-1},{1,-2} };
 struct point
 {
     int r;
